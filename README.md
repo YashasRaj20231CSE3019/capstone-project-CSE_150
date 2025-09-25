@@ -77,8 +77,7 @@ A Flask-based web application that provides AI-powered sentiment analysis and co
 
 2. **Run the application**
    ```bash
-   
-
+   python3 app.py
    ```
 
 3. **Access the application**
